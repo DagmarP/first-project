@@ -15,3 +15,4 @@ else:
     print('Strana musí být kladná, jinak z toho nebude čtverec!')
 
 print('Děkujeme za použití geometrické kalkulačky.')
+print("Běž do háje")
